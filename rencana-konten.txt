@@ -1,0 +1,4 @@
+Rencana konten kedepam
+
+- Merefactor pulsanote dari CodeIgniter ke Laravel
+- Diusahakan ada penerapan dari angular.js nya juga
